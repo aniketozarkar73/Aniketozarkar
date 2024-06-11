@@ -1,0 +1,148 @@
+				     		MODULE(HTML)-1
+
+
+Q.1 Are the HTML tags and elements the same thing?
+Ans-No,HTML tags and elements are not the same.HTML tags are instructions that define the element.while the element is the actual content that is created by those instructions.
+
+Q.2 What are tags and attributes in HTML?  
+Ans-Tags:-define the type of content.
+     Attribute:-provide additional information about the content.
+
+Q.3 What are void elements in HTML?
+Ans-A void elements in HTML are elements that dont contain any content and only have a start tag.
+
+Q.4 What are HTML Entities?  
+Ans-An HTML entity is a piece of text that begins with an ampersand(&) and ends with a semicolon(;).
+
+Q.5 What are different types of lists in HTML? 
+Ans-•Ordered lists:-Used for items that have a specific order.
+    •Unordered lists:-Used for items that dont have a specific order.	 
+    •Definition lists:-Used for defining terms,with a term followed by its definition.    
+
+Q.6  What is the ‘class’ attribute in HTML?  
+Ans- The HTML is a global attribute that allows you to aasign one or more class nam to an HTML element.
+
+Q.7 What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
+Ans-•id Attribute:-The id attribute assigns a unique identifier to an element.this makes it ideal for targeting specific elements with CSS or Javascript.
+    •Class Attribute:- The Class attribute can apply to multiple elements.you canassign the same class value to multiple elements.  
+
+Q.8 What are the various formatting tags in HTML?  
+Ans-HTML formatting tags are used to define the apperance of text on a webpage .They can be used to make text bold,italic,underlined as well as to change the size ,color and alignment.
+
+Q.9 How is Cell Padding different from Cell Spacing?
+Ans- Cell padding creates space inside the cell,while cell spacing creates space between cells.
+
+Q.10 How can we club two or more rows or columns into a single row or column in an HTML table?
+Ans-colspan:-this attribute specifies the number of columns a cell should span.
+    rowspan:-this attribute specifies the number of rows a cell should span.
+
+Q.11• What is the difference between a block-level element and an inline element?  
+Ans-1.Block-level Elements:
+->Always start on a new line.
+->Automatically add space (margins) before and after the element.
+->Take up the full width available (stretch from left to right).
+->Common examples: <p>, <div>, <h1> to <h6>, <section>, and <article>
+
+2.Inline Elements:
+->Do not start on a new line; they flow within the same line.
+->Only take up as much width as necessary.
+->Ideal for applying specific styles or adding interactive elements.
+Examples include <span>, <a>, <strong>, <em>, and <img>1.
+
+
+Q.12 How to create a Hyperlink in HTML?
+Ans-
+-> Creating a hyperlink in HTML is done using the ‘<a>’ (anchor) element.
+-> The most important attribute of the ‘<a>’ element is the ‘href’ attribute, which specifies the URL of the page the link goes to.
+
+(e.g)
+<a href="https://www.example.com">Visit Example.com</a>
+
+Q.13 What is the use of an iframe tag?
+Ans-The <iframe> tag in HTML is used to embed another document within the current webpage. It acts like a window, displaying external content such as videos, maps, or social media feeds without redirecting the user to another page.
+
+Q.14 What is the use of a span tag? Explain with example?
+Ans-The <span> tag in HTML is used to apply inline styling to a specific portion of text within a larger block of content. It doesn’t create any visual change by itself but allows you to target and style specific parts of the text.
+ex-
+->The word “blue” will be displayed in blue color because of the <span> tag.
+->The <span> tag acts as a container for the styled text.
+
+Q.15 How to insert a picture into a background image of a web page?
+Ans-To insert a picture as a background image of a web page, you can use CSS (Cascading Style Sheets). The “background-image” property in CSS allows you to set an image as the background of an HTML element.
+
+EX- background-image: url('path/to/your/image.jpg');
+
+Q.16 How are active links different from normal links? 
+Ans-1.Normal Links (Unvisited Links):
+->A normal link is a simple line of code that contains a pointer to another resource (usually another web page).
+->When you create a link using the <a> tag in HTML, it represents a normal link.
+
+2.Active Links:
+An active link is a hyperlink that is currently being interacted with by the user.
+When you click (left or right-click) on either a visited or unvisited link, it becomes an active link.
+
+Q.17 What are the different tags to separate sections of text? 
+Ans- 1. Paragraph (<p>)
+The <p> tag is used to define paragraphs. It automatically adds space before and after the paragraph
+2. Line Break (<br>)
+The <br> tag inserts a line break within text, moving the content that follows to a new line without starting a new paragraph.
+3. Horizontal Rule (<hr>)
+The <hr> tag creates a horizontal line that can be used to separate content sections visually.
+4. Division (<div>)
+The <div> tag is a block-level container used to group and separate sections of content. It is commonly used with CSS for styling and layout purposes.
+
+Q.18 What is SVG? 
+Ans-SVG (Scalable Vector Graphics) is an XML-based markup language for describing two-dimensional vector graphics.
+
+Q.19 What is difference between HTML and XHTML? 
+Ans-                                                     
+HTML->
+-HTML stands for Hypertext Markup Language
+-It is an SGML application
+-HTML is not case sensitive
+-HTML can use open tags, such as <br>
+-HTML is less expressive.
+
+
+XHTML->
+-XHTML stands for Extensible Hypertext Markup Language
+-It is an XML application
+-XHTML is case sensitive
+-All unclosed tags must be closed in XHTML
+-XHTML is more expressive as compared to HTML
+
+
+Q.20 What are logical and physical tags in HTML? 
+Ans- Logical Tags 
+Logical tags, also known as semantic tags, are used to define the meaning or structure of the content.
+Logical tags are that type of tags where we can identify it from their name.
+  
+
+     Physical tags 
+-Physical tags, also known as presentation tags, are used to define the appearance of the text.
+-Physical can not being identified by their name.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
