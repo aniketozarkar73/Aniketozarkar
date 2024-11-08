@@ -1,0 +1,13 @@
+• What are the new tags added in HTML5?  
+Ans-> <header>,<footer>,<section>,<article>,<aside>,<nav>,<audio>,<video>,<canvas>,<svg>.
+ 
+• How to embed audio and video in a webpage?  
+Ans-> Embedding Audio:-we can use the <audio> tag to embed audio in web page.also we can add attributes such has controls,autoplay,loop,muted
+      
+      Embedding Video:-To embed video use the <video> tag like <audio> tag.we can add attributes such has autoplay,loop,width and height,poster.
+ 
+• Semantic element in HTML5?
+Ans->In HTML5, Sematic elements are tags that clearly define the purpose of the content they contain.such has <header>,<footer>,<nav>,<section>,<main>
+ 
+• Canvas and SVG tags
+Ans->Canvas:-The <canvas> tag in HTML is an element that provides a surface for drawing graphics on awebpage using Javascript.its a digital drawing board that you can program to render shapes,text,animation and even complex images
