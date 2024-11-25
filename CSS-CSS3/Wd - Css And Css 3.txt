@@ -1,0 +1,119 @@
+• What are the benefits of using CSS?
+Ans->1.Separation of content and design
+     2.Improved consistency
+     3.Easier Maintenance
+     4.Enhanced User experience
+     5.Faster page load
+     6.Flexible layouts.
+
+
+• What are the disadvantages of CSS?
+Ans->1.Complexity in Maintenance
+     2.Browser Compatibility
+     3.Specificity issues
+     4.No Logical Function
+
+ 
+• What is the difference between CSS2 and CSS3?
+Ans->CSS:-
+    1.Modular Structure:-CSS was a single specification.
+    2.Media queries:-CSS is not supports media queries, enabling responsive design.
+    3.Browser Support:-CSS had limitations and less compatibility with responsive design.
+     
+    CSS3:-
+    1.Modular Structure:-CSS3 is divided into modules, allowing for easier development and updates.
+    2.Media queries:-CSS3 supports media queries, enabling responsive design, allowing styles to change based on screen size and device.
+    3.Browser Support:-CSS3 is widely supported by modern browsers.
+
+ 
+• Name a few CSS style components
+Ans-> 1.Selectors
+      2.Properties
+      3.Box Model
+      4.Flexbox
+      5.Grid
+      6.Animations
+      7.Pseudo-classes
+      8.Media Queries 
+
+
+• What do you understand by CSS opacity?
+Ans->In CSS, opacity is a property that sets the transparency level of an element .it ranges from 0 to 1.
+
+
+• How can the background color of an element be changed?
+Ans-> We can use background color property, To change background of an element.
+
+
+• How can image repetition of the backup be controlled?
+Ans-> image repetition for a background can be controlled using the background-repeat property. 
+
+ background-repeat: repeat; – repeats the image both horizontally and vertically (default).
+ background-repeat: no-repeat; – displays the image only once.
+ background-repeat: repeat-x; – repeats the image horizontally.
+ background-repeat: repeat-y; – repeats the image vertically.
+ background-repeat: space; – repeats the image with space between each repetition.
+ background-repeat: round; – scales and repeats the image to fit the container without gaps
+
+
+• What is the use of the background-position property?
+Ans->The background-position property in CSS is used to set the starting position of a background image within its container. It determines where the background image is placed relative to the container, allowing precise control over its alignment and positioning.
+
+
+• Which property controls the image scroll in the background?
+Ans->
+
+
+• Why should background and color be used as separate properties?
+Ans->1.Distinct Purpose
+     2.Better Readability and Organization
+     3.Enhanced Flexibility
+     4.Responsive Design
+     5.Inheritance Control
+Overall, keeping background and color as separate properties aligns with best practices for clean, organized, and maintainable CSS code.
+
+
+• How to center block elements using CSS1?
+Ans-> Using margin, display-flex with justify content center, transform property.
+
+  
+• How to maintain the CSS specifications?
+Ans->These specifications are developed and maintained by the worldwide web Consortium ,the organization responsible for setting standards for the web.
+     1. Use a Consistent Naming Convention
+     2. Organize CSS with Modular Structure
+     3. Use Variables for Consistency
+     4. Avoid Overly Specific Selectors
+     5. Use Commenting and Documentation
+
+
+• What are the ways to integrate CSS as a web page?
+Ans->There are three main ways to integrate CSS into a web page:
+     1.Inline CSS
+     2.External CSS
+     3.Internal or Embedded CSS
+
+
+• What is embedded style sheets?
+Ans->Embedded style sheets are CSS (Cascading Style Sheets) rules written directly within an HTML document, typically inside the <style> tags located in the <head> section of the HTML file. This type of styling applies only to that specific HTML document, allowing you to define the look and feel of the page without linking to an external CSS file
+
+
+• What are the external style sheets?
+Ans->An external style sheet is a separate file that contains CSS (Cascading Style Sheets) code used to control the styling of multiple web pages from a single source. External style sheets are saved as .  files and are linked to HTML documents using the <link> tag in the <head> section of the HTML file.
+
+
+• What are the advantages and disadvantages of using external style sheets?
+Ans->Advantages:-External style sheets generally recommended for most web development projects due to their numerous advantage.
+     Disadvantages:- However, for very small, one-time pages, inline or internal CSS might sometimes be more efficient.
+
+
+• What is the meaning of the CSS selector?
+Ans->In CSS, selectors are the part of a rule set that specifies which HTML elements to style. They act like a targeting mechanism, allowing you to pinpoint specific elements and apply styles to them.
+
+
+• What are the media types allowed by CSS?
+Ans->n addition to these media types, CSS has media features (such as min-width, max-width, orientation, etc.) that can be used in conjunction with media types to create more specific conditions, enabling responsive designs and further customization based on the user’s device characteristics.
+
+
+
+• What is the rule set?
+Ans->a rule set is the core structure that defines how elements in an HTML document should be styled. It consists of two main parts: a selector and a declaration block.
